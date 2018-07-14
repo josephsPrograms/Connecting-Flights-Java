@@ -1,0 +1,17 @@
+1|ATL|Atlanta|GA|10|false|150|
+1|LAX|Los Angeles|CA|10|false|150|
+1|DCA|Washington D.C.|VA|4|true|150|
+1|LGA|New York|NY|8|true|125|
+1|SFO|San Francisco|CA|6|false|100|
+1|SEA|Seattle|WA|5|false|125|
+1|MIA|Miami|FL|9|false|150|
+1|MCO|Orlando|Florida|7|false|150|
+2|ORD|Chicago|IL|6|true|140|
+2|PDX|Portland|OR|2|true|50|
+2|DFW|Dallas|TX|4|false|120
+2|LAS|Las Vegas|NV|2|false|75|
+2|DEN|Denver|CO|3|true|50|
+2|EWR|Newark|NJ|4|false|100|
+2|BOS|Boston|MA|4|true|100|
+2|SAN|San Diego|CA|5|false|115|
+2|PHL|Philadelphia|PA|5|false|60|

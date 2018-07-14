@@ -1,0 +1,12 @@
+1|PEK|Beijing|China|10|1|1000|Movie Theater|
+1|DXB|Dubai|United Arab Emirates|8|0|900|City Tour|
+1|HND|Tokyo|Japan|8|2|850|Food|
+1|LHR|London|England|7|1|500|Live Music|
+1|CDG|Paris|France|7|2|200|Food|
+1|AMS|Amsterdam|Netherlands|6|0|100|Marijuana|
+2|FRA|Frankfurt|Germany|6|0|300|Beer|
+2|DEL|Delhi|India|5|5|700|Indian Food|
+2|KUL|Kuala Lumpur|Malaysia|4|3|100|None|
+2|YYZ|Toronto|Canada|3|1|200|Funny Accents|
+2|TPE|Dayuan|Taiwan|2|3|50|Food|
+2|MNL|Pasay|Philippines|3|4|150|Definately Not Marijuana!|
